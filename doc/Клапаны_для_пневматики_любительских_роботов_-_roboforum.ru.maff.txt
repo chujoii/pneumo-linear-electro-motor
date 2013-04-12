@@ -1,0 +1,6 @@
+# file: Клапаны_для_пневматики_любительских_роботов_-_roboforum.ru.maff
+user.checksum.md5="4a1202782f50ad6df693b368388e4fdc"
+user.checksum.sha1="f4ca8ed8a7e31bd0af765eeeb0a43a7b947402f9"
+user.checksum.sha256="84925abfe55f8358b41b14ef511e3c9addec0bf514638aff5d9b5f0dd8e94fd6"
+user.metatag="orifice lightweight reality virtual hydro air pneumatic motion wearable motor vibration ball steel driver soft flexible test pneumo service medicine human system McKibben rubbertuator size science work published robot unconstrained miniauturized mini actuator muscle artifact valve control pressure off on japan"
+
