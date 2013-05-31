@@ -20,25 +20,25 @@ Author: Roman V. Prikhodchenko <chujoii@gmail.com>
 
 
 
-  This file is part of pneumolinelm.
+  This file is part of pneumo-linear-electro-motor.
 
-  pneumolinelm is free software: you can redistribute it and/or modify
+  pneumo-linear-electro-motor is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
   the Free Software Foundation, either version 3 of the License, or
   (at your option) any later version.
 
-  pneumolinelm is distributed in the hope that it will be useful,
+  pneumo-linear-electro-motor is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; without even the implied warranty of
   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
   GNU General Public License for more details.
 
   You should have received a copy of the GNU General Public License
-  along with pneumolinelm.  If not, see <http://www.gnu.org/licenses/>.
+  along with pneumo-linear-electro-motor.  If not, see <http://www.gnu.org/licenses/>.
 
 
 
 * Keywords:
-  pneumolinelm pneumo valve linear electro motor actuator 
+  pneumo linear electro motor pneumo valve linear electro motor actuator 
 
 
 
